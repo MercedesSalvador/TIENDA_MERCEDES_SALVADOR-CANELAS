@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+                    
+    
+    
+    
+    <wb-module deploy-name="TIENDA_MERCEDES_SALVADOR_CANELAS-0.0.1-SNAPSHOT">
+                                
+        
+        
+        <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
+                                        
+        
+        
+        
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+                                        
+        
+        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/curso.java.tienda"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/resources"/>
+                                        
+        
+        
+        
+        <property name="context-root" value="TIENDA_MERCEDES_SALVADOR_CANELAS"/>
+                                        
+        
+        
+        
+        <property name="java-output-path" value="/TIENDA_MERCEDES_SALVADOR_CANELAS/build/classes"/>
+                                    
+    
+    
+    
+    </wb-module>
+                
+
+
+
+</project-modules>
